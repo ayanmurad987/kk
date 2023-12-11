@@ -17,7 +17,7 @@
 		"ws": "^7.2.1"
 	},
 	"devDependencies": {
-		"@koa/cors": "3.0.0",
+		"@koa/cors": "5.0.0",
 		"babel-eslint": "^10.0.3",
 		"enzyme": "^3.11.0",
 		"enzyme-adapter-react-16": "^1.15.2",
